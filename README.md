@@ -1,14 +1,9 @@
-# Expo Router Example
+# Search Job App 
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+## My first pet-project made with React Native 
 
-## 🚀 How to use
+### 📝 I've learned how to:
+- fetch data from an external API and integrate it
+- create customAPI data fetching hooks
+- implement search & pagination functionality
 
-```sh
-npx create-expo-app -e with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
